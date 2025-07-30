@@ -1,110 +1,145 @@
-<h2 align="left">Hi 👋! My name is Dalia and I'm a Computer Science for Management student from Bologna, Italy 🇮🇹</h2>
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=Hi+👋+I'm+Dalia+Barone;Computer+Science+for+Management+Student;AI+%26+Business+Optimization+Enthusiast;Data+Analyst+%26+Future+AI+Engineer" alt="Typing SVG" />
+</div>
 
-<p align="left">🎓 Undergraduate at University of Bologna specializing in <strong>Artificial Intelligence</strong> and <strong>Business Optimization</strong><br>
-🔬 Currently working on my thesis: <em>"Cognitive Biases in AI Recruiting: Gender Discrimination Through Dataset Analysis and Machine Learning"</em><br>
-🌍 Erasmus alumna at Universidad de Las Palmas de Gran Canaria, Spain<br>
-💼 Former Data Analyst intern at TicketSMS - specialized in database management and SEO optimization<br>
-🚀 Passionate about <strong>AI ethics</strong>, <strong>data analysis</strong>, and <strong>business process optimization</strong></p>
+<!-- Professional intro -->
+<p align="center">
+  <em>🎓 University of Bologna | 🇪🇸 Erasmus Alumna | 🤖 AI Ethics Researcher | 📊 Data Analyst</em>
+</p>
 
-###
+---
+
+### 🚀 About Me
+
+```typescript
+const dalia = {
+    location: "Bologna, Italy 🇮🇹",
+    education: "Computer Science for Management @ University of Bologna",
+    currentFocus: "AI Bias Detection & Business Optimization",
+    thesis: "Cognitive Biases in AI Recruiting: Gender Discrimination Through ML",
+    languages: ["Italian", "English (C1)", "Spanish (B1)"],
+    internship: "Data Analyst @ TicketSMS",
+    erasmus: "Universidad de Las Palmas de Gran Canaria 🇪🇸",
+    passions: ["Artificial Intelligence", "Data Analysis", "Process Optimization"],
+    nextGoal: "Master's in Computer Science"
+};
+```
+
+<img align="right" height="250" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Working penguin" />
+
+### 💼 Professional Experience
+
+**🎯 Data Analyst Intern** | *TicketSMS S.R.L.* | *Mar 2025 - May 2025*
+- 📊 Managed databases with **350+ artist records**
+- 🔍 Implemented **SEO optimization** strategies
+- ✅ Conducted **quality assurance** on 400+ event records
+- 🎨 Performed **UI/UX testing** and analysis
+- 📈 Market research and competitive intelligence
+
+**🌍 International Experience** | *Erasmus+ Spain* | *Sep 2024 - Feb 2025*
+- 📚 Software Engineering & Management Technologies
+- 🇪🇸 Spanish language certification (B1)
+- 🤝 Cross-cultural teamwork in multicultural environment
+- 🧠 Enhanced adaptability and problem-solving skills
+
+<br clear="both">
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daliaxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+**Programming Languages**
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+**Data & AI**
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+
+**Web Development**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+**Databases & Tools**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNqczJtYzNhcmI3Mmtia2M0cTh3aWR6dGJhcHl2bWQ2cjhoMGh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
+### 📊 GitHub Analytics
 
-### 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daliaxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daliaxx&theme=radical&hide_border=true" height="150" alt="streak stats" />
+</div>
 
-### 🎯 What I'm Working On
+---
 
-- 🔍 **AI Bias Research**: Investigating gender discrimination in AI recruiting systems using machine learning
-- 📊 **Data Analysis Projects**: Working with large datasets (350+ records) for business optimization
-- 🌐 **Web Development**: Creating SEO-optimized platforms and user experience solutions
-- 🤖 **Machine Learning**: Developing models for bias detection and ethical AI applications
+### 🎯 Current Focus
 
-###
+<div align="center">
 
-### 📈 Key Projects & Experience
+| 🔬 Research | 🎓 Learning | 🚀 Building |
+|-------------|-------------|-------------|
+| AI Bias Detection | Advanced ML Techniques | Data Analysis Tools |
+| Gender Discrimination in Tech | Business Process Optimization | Web Applications |
+| Ethical AI Development | International Collaboration | SEO Strategies |
 
-🏢 **TicketSMS Internship** (March - May 2025)
-- Managed databases with 350+ artist records
-- Implemented SEO optimization strategies
-- Conducted UI/UX testing and quality assurance
-- Performed competitive analysis and market research
+</div>
 
-🎓 **Academic Projects**
-- AI bias detection in recruitment systems
-- Machine learning model development
-- Data analysis with Python (NumPy, Pandas, Matplotlib)
-- Full-stack web applications
+---
 
-🌍 **International Experience**
-- 5-month Erasmus exchange in Spain
-- Spanish language certification (B1 level)
-- Cross-cultural teamwork and project management
+### 🏆 Key Achievements
 
-###
+<div align="center">
 
-### 🎓 Education & Certifications
+```
+🎓 Erasmus Exchange Program Completed (Spain)
+📊 350+ Database Records Managed Successfully  
+🔍 400+ Quality Assurance Tests Performed
+🇪🇸 Spanish Language Certification Achieved
+🤖 AI Bias Research Project Underway
+🌍 International Team Collaboration Experience
+```
 
-- 🎓 **Bachelor's in Computer Science for Management** - University of Bologna
-- 🌍 **Erasmus+ Exchange** - Universidad de Las Palmas de Gran Canaria, Spain
-- 🇪🇸 **Spanish Language Certification** - B1 Level
-- 🇬🇧 **English Proficiency** - C1 Level
+</div>
 
-###
+---
 
 ### 📫 Let's Connect!
 
-<div align="left">
-  <a href="mailto:daliabarone@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/dalia-barone" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/daliaxx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/daliaxx/count.svg?"  />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daliabarone@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalia-barone)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daliaxx)
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 🐍 Watch my contribution graph get eaten by a snake!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -112,6 +147,20 @@
 
 ---
 
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=daliaxx&color=blueviolet&style=for-the-badge)
+
+---
+
 <p align="center">
   <em>"Developing intelligent solutions that enhance business performance while maintaining ethical standards"</em>
 </p>
+
+**⭐ From [daliaxx](https://github.com/daliaxx)**
+
+</div>
