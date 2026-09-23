@@ -15,7 +15,7 @@
 ```typescript
 const dalia = {
     location: "Bologna, Italy 🇮🇹",
-    current education: "Master's in Computer Science"
+    current education: "Master's in Computer Science",
     previous education: "Computer Science for Management @ University of Bologna",
     currentFocus: "AI Bias Detection & Business Optimization",
     thesis: "Cognitive Biases in AI Recruiting: Gender Discrimination Through ML",
