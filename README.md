@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=Hi+👋+I'm+Dalia+Barone;Computer+Science+for+Management+Student;AI+%26+Business+Optimization+Enthusiast;Data+Analyst+%26+Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=Hi+👋+I'm+Dalia+Barone;Computer+Science+Master+Student;AI+%26+Business+Optimization+Enthusiast;Data+Analyst+%26+Future+AI+Engineer" alt="Typing SVG" />
 </div>
 
 <!-- Professional intro -->
@@ -15,14 +15,15 @@
 ```typescript
 const dalia = {
     location: "Bologna, Italy 🇮🇹",
-    education: "Computer Science for Management @ University of Bologna",
+    current education: "Master's in Computer Science"
+    previous education: "Computer Science for Management @ University of Bologna",
     currentFocus: "AI Bias Detection & Business Optimization",
     thesis: "Cognitive Biases in AI Recruiting: Gender Discrimination Through ML",
     languages: ["Italian", "English (C1)", "Spanish (B1)"],
     internship: "Data Analyst @ TicketSMS",
     erasmus: "Universidad de Las Palmas de Gran Canaria 🇪🇸",
     passions: ["Artificial Intelligence", "Data Analysis", "Process Optimization"],
-    nextGoal: "Master's in Computer Science"
+    
 };
 ```
 
