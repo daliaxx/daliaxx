@@ -48,6 +48,40 @@ const dalia = {
 
 ---
 
+### 🎓 Featured Research — My Thesis
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Fairness%20in%20AI-9D4EDD?style=for-the-badge" alt="Fairness in AI" />
+<img src="https://img.shields.io/badge/Bias%20Detection-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Bias Detection" />
+<img src="https://img.shields.io/badge/Responsible%20AI-4479A1?style=for-the-badge" alt="Responsible AI" />
+
+</div>
+
+**"Algorithmic Bias in AI: Analysis and Mitigation of Gender Bias in Automated Recruitment Systems"**
+*Bachelor's Thesis — University of Bologna*
+
+```python
+thesis_highlights = {
+    "focus": "Detecting & mitigating gender bias in ML-based hiring systems",
+    "dataset": "Adult Census Income",
+    "methodology": [
+        "GridSearchCV for hyperparameter tuning",
+        "Multiple bias mitigation techniques compared",
+        "Statistical validation via Student's t-test across 30 repetitions"
+    ],
+    "mission": "Building AI that's accurate AND fair 🤝"
+}
+```
+
+🔍 Trained and evaluated machine learning models to uncover gender-based discrimination in automated recruitment decisions, then tested mitigation strategies to reduce it — backing every result with rigorous statistical validation, not just a single lucky run.
+
+💡 As AI takes on more hiring decisions, making sure it doesn't quietly replicate old biases feels less like a research topic and more like a responsibility. This thesis is my first step toward that.
+
+<br clear="both">
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
